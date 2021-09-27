@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/09/25 20:26:35.000.587,=C:\Users\Dev\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/25 20:26:55.000.570,C:\Users\Dev\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Dev\Documents\Embarcadero\Studio\Projects\AppFortesTeste.dproj</Transaction>
+    <Transaction>2021/09/25 20:27:56.000.388,C:\Users\Dev\Documents\Embarcadero\Studio\Projects\AppFortesTeste.dproj=C:\Users\Dev\Documents\Embarcadero\Studio\Projects\AppTesteFortes.dproj</Transaction>
+    <Transaction>2021/09/25 20:28:16.000.078,C:\Users\Dev\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\DEV\AppTesteFortes\uPrincipal.dfm</Transaction>
+    <Transaction>2021/09/25 20:28:16.000.078,C:\Users\Dev\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\DEV\AppTesteFortes\uPrincipal.pas</Transaction>
+    <Transaction>2021/09/25 20:28:21.000.014,C:\Users\Dev\Documents\Embarcadero\Studio\Projects\AppTesteFortes.dproj=C:\DEV\AppTesteFortes\AppTesteFortes.dproj</Transaction>
+    <Transaction>2021/09/25 20:34:46.000.179,=C:\DEV\AppTesteFortes\Unit1.pas</Transaction>
+    <Transaction>2021/09/25 20:35:12.000.046,C:\DEV\AppTesteFortes\Unit1.pas=C:\DEV\AppTesteFortes\uVendasDTO.pas</Transaction>
+    <Transaction>2021/09/25 20:35:20.000.383,=C:\DEV\AppTesteFortes\Unit1.pas</Transaction>
+    <Transaction>2021/09/25 20:35:35.000.605,C:\DEV\AppTesteFortes\Unit1.pas=C:\DEV\AppTesteFortes\uVendasDAO.pas</Transaction>
+    <Transaction>2021/09/25 21:12:44.000.833,=C:\DEV\AppTesteFortes\Unit1.pas</Transaction>
+    <Transaction>2021/09/25 21:13:29.000.840,C:\DEV\AppTesteFortes\Unit1.pas=C:\DEV\AppTesteFortes\uDB.pas</Transaction>
+    <Transaction>2021/09/25 21:17:59.000.240,C:\DEV\AppTesteFortes\uDB.pas=</Transaction>
+    <Transaction>2021/09/27 06:51:52.763,=D:\DEV\AppTesteFortes\uDB.pas</Transaction>
+    <Transaction>2021/09/27 06:54:44.883,D:\DEV\AppTesteFortes\uConexao.pas=D:\DEV\AppTesteFortes\uDB.pas</Transaction>
+    <Transaction>2021/09/27 06:54:57.075,=D:\DEV\AppTesteFortes\Unit1.pas</Transaction>
+    <Transaction>2021/09/27 06:55:13.585,D:\DEV\AppTesteFortes\uVendasController.pas=D:\DEV\AppTesteFortes\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
